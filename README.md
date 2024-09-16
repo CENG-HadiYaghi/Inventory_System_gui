@@ -12,7 +12,7 @@ Setup Instructions
 1. Clone the Repository:
 To get started with this project, clone the repository to your local machine:
 
-git clone https://github.com/your-username/inventory-management-system.git
+git clone https://github.com/CENG-HadiYaghi/Inventory_System_guint-system.git
 
 2. Set Up the Database:
 The project uses a MySQL database for storing user and inventory data. Follow the steps below to set up the database:
